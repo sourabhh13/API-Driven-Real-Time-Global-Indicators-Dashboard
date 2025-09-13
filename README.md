@@ -44,7 +44,7 @@ It explores how countries are performing across key development dimensions such 
 - **Power BI** – Data modeling, dashboard design, and visualization.
 - **World Development Indicators (WDI)** – Primary data source.
 - **Excel / CSV** – Data cleaning and preprocessing.
-- 
+
 
 
 ---
