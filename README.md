@@ -44,16 +44,8 @@ It explores how countries are performing across key development dimensions such 
 - **Power BI** – Data modeling, dashboard design, and visualization.
 - **World Development Indicators (WDI)** – Primary data source.
 - **Excel / CSV** – Data cleaning and preprocessing.
-- *(Optional)* Python/R – For deeper statistical validation.
+- 
 
----
-
-## 📸 Dashboard Preview
-*(Add screenshots of your Power BI report here — place them inside the `docs/` folder and embed them)*
-
-Example:
-
-![Dashboard Preview](docs/dashboard_preview.png)
 
 ---
 
@@ -77,8 +69,3 @@ This project provides policymakers, NGOs, and researchers with:
 - Actionable lessons from top-performing countries in poverty reduction.  
 
 ---
-
-## ⚡ How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/global-development-analysis.git
